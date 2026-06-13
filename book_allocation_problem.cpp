@@ -54,7 +54,6 @@ int main(){
         }
     }
     cout<<"answer: "<<ans;
-    cout<<"answer: "<<ans << endl;
 
    delete[] arr;
     arr = nullptr;
